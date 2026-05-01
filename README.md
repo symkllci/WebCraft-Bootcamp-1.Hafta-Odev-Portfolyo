@@ -8,7 +8,7 @@
 
 ## 📌 Proje Hakkında
 
-Bu proje, **Şeyma Kelleci**'nin kişisel portfolio web sitesidir. Web Tasarımı & Kodlama eğitimi sürecinde kazanılan HTML ve CSS bilgileriyle geliştirilen bu site; yetenekleri, projeleri ve iletişim bilgilerini sade ve etkili bir şekilde sunmaktadır.
+Bu proje, **Şeyma Kelleci**'nin kişisel portfolio web sitesidir. Web Tasarımı & Kodlama eğitimi sürecinde öğrendiğim HTML ve CSS bilgilerimle geliştirdiğim bu site; yeteneklerim, bazı projelerim ,hakkımda ve iletişim bilgilerini sade ve etkili bir şekilde yaptım
 
 ## 🖼️ Görseller
 
